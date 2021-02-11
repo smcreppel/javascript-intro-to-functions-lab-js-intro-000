@@ -4,6 +4,8 @@ function shout(string){
 function whisper(string){
   return string.toLowerCase();
 }
-'logShout(string)';{
-function console.log .toUpperCase('hello')
-}
+function ('logShout(string)', const spy = expect.spyOn(console, 'log').andCallThrough()
+logShout('hello')
+expect(spy).toHaveBeenCalledWith('HELLO')
+console.log.restore()
+})
