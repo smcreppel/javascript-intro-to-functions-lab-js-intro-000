@@ -18,8 +18,8 @@ function sayHiToGrandma(string){
   return ("I can't hear you!");
 }
 function sayHiToGrandma(string){
-if ('HELLO');
-return ('YES INDEED!');
+  expect ('HELLO').toBe ('YES INDEED!');
+
 }
 function sayHiToGrandma (string){
   if ('I love you, Grandma.')
