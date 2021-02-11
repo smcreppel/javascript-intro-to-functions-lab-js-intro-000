@@ -16,7 +16,7 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   return ("I can't hear you!");
 }
-EsayHiToGrandma('HELLO')).toEqual('YES INDEED!')
+EX
 }
 function sayHiToGrandma (string){
   if ('I love you, Grandma.')
