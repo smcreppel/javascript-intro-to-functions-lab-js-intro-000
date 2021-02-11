@@ -6,7 +6,7 @@ function whisper(string){
 }
 function logShout (string) {
   console.log .toUpperCase ;
-  (toHaveBeenCalledWith) ['HELLO'];
+  ['HELLO'];
 }
 
 function sayHiToGrandma (string){
