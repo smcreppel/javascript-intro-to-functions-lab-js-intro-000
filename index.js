@@ -7,6 +7,8 @@ function whisper(string){
 function sayHiToGrandma (string){
   if (string) 
   return ("I can\'t hear you!");
-  
 }
-  
+function sayHiToGrandma (string){
+  if (String)
+  return ("YES INDEED!")
+}
