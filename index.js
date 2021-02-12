@@ -25,4 +25,4 @@ function sayHiToGrandma (string){
   return ("I love you, too.");
 }
 
-let hello = ('I can\'t hear you!"); 
+let hello = 'I can\'t hear you!"; 
